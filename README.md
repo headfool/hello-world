@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-Github first step
+Github first step - Learning Github
